@@ -2,7 +2,7 @@
 title: Upgrade Files edited
 ---
 
-<div align="center">    <br/>    <div>DOC</div>    <h1>Upgrade Files</h1>    <br/>  </div>
+<div align="center">    <br/>    <div>DOC</div>    <h1>Upgrade Files Edited</h1>    <br/>  </div>
 
 ### Files Used:
 📄 src/cli/commands/upgrade-files.ts
